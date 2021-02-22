@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#banner{
+  background:lightblue;
+  height: 150px;
+ }
+
+#tile{
+  background: url("../img/pattern.png") repeat;
+  max-width: 100%;
+  height: 100%;
+  background-size: cover;
+}
