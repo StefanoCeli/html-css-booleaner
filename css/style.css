@@ -50,3 +50,21 @@ ul{
   list-style-position: inside;
   
 }
+thead tr{
+  background-color: #20a9e5;
+}
+table{
+  border-spacing: 0;
+}
+th{
+  text-align: initial;
+  color: white;
+}
+
+td{
+  width: 33.3333%;
+}
+
+.row-highlighted{
+  background-color: #b1e5f2;
+}
