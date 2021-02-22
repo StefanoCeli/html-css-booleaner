@@ -31,11 +31,14 @@ h1{
 }
 .sottotitolo{
   color: grey;
+  font-size: 18px;
+}
+a{
+  text-decoration: none;
 }
 .sottotitolo a{
-  text-decoration: none;
   color: #42b6e9;
-  font-size: 20px;
+  
 }
 .disclaimer{
   font-size: 12px;
@@ -67,4 +70,26 @@ td{
 
 .row-highlighted{
   background-color: #b1e5f2;
+}
+.box{
+  margin: 10px 0;
+  height: 200px;
+  
+}
+#monitor{
+  background: url("../img/monitor.jpg") no-repeat;
+  background-size: contain;
+}
+
+#grafico{
+  background: url("../img/graph.jpg") no-repeat;
+  background-size: contain;
+}
+
+.box a{
+  color: white;
+  display: inline-block;
+  padding: 10px;
+  font-size: 22px;
+  font-weight: bold;
 }
