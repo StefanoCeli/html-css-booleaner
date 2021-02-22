@@ -40,6 +40,13 @@ h1{
 .disclaimer{
   font-size: 12px;
 }
-#photo{
+.space{
   margin: 25px 0;
+}
+.highlighted{
+  background-color: #ffff00;
+}
+ul{
+  list-style-position: inside;
+  
 }
